@@ -1,0 +1,1 @@
+import{ot as e}from"./BJ4-j0j6.js";e();
