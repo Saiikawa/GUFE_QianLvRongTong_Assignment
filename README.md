@@ -97,7 +97,3 @@ npm run build
 | POST | `/api/apply` | 提交贷款申请 |
 | GET | `/api/apply?applicationId=xxx` | 查询申请状态 |
 | GET | `/api/apply/export?status=xxx` | 导出申请数据（CSV） |
-
-## 许可证
-
-MIT
